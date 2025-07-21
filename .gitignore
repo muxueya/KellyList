@@ -207,6 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 media/
-kelly_anki_import.txt
-Swedish-Kelly_M3_CEFR.xlsx
-Swedish-Kelly_M3_CEFR 91.csv
+
+*.xlsx
+*.csv
+*.txt
